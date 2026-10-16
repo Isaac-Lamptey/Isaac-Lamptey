@@ -4,8 +4,8 @@ CS & Engineering student at the University of Mines and Technology (UMaT), Ghana
 I build AI-powered automations and chatbots for businesses under **Lami Nexus**.
 
 ## What I'm working on
-- **FAQ Chat Widget**: an embeddable AI chatbot that answers questions from a business's own documents (RAG)
-- **Lami Nexus website**: built with Next.js, TypeScript and Tailwind CSS
+- https://github.com/Isaac-Lamptey/n8n-RAG-chatbbot: an embeddable AI chatbot that answers questions from a business's own documents (RAG)
+- **Lami Nexus website**: built with Next.js, TypeScript and Tailwind CSS (Currently not avaolable)
 
 ## Tools I use
 `n8n` · `Python` · `Git`
