@@ -5,7 +5,6 @@ I build AI-powered automations and chatbots for businesses under **Lami Nexus**.
 
 ## What I'm working on
 - **FAQ Chat Widget**: an embeddable AI chatbot that answers questions from a business's own documents (RAG)
-- **MedQ**: a hospital appointment booking web app for Ghanaian clinics
 - **Lami Nexus website**: built with Next.js, TypeScript and Tailwind CSS
 
 ## Tools I use
